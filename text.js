@@ -1,0 +1,1 @@
+document.getElementById("someId").innerText = "Hello javaScript"
