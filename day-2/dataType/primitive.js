@@ -7,7 +7,7 @@
 // BigInt = Large number (13421424234df)
 // Symbol = Unique identifier('Symbol(id)')
 
-// non-primitive data type
-// Object 
-// Array 
-// Function 
+// Non-primitive (Referance) data type
+// Object = Collection of key-value pair
+// Array = Order list of value
+// Function = Code that can be executed
