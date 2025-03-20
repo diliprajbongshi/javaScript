@@ -1,0 +1,5 @@
+/*
+Execution context is most fundamental part of javaScript programming language.
+
+
+*/
